@@ -1,0 +1,79 @@
+body{
+	background-color:#ECE6E5;
+}
+
+.navbar-header{
+	text-align:center;
+	font-family:Helvetica;
+	text-shadow:2px 2px #66ff66;
+}
+
+.inside{
+	text-align:center;
+}
+
+h1{
+	padding: 0px;
+	margin:0px;
+	font-family: 'Patrick Hand', cursive;
+	font-size:70px;
+}
+
+#caption{
+	text-align:left;
+	padding:1px;
+	margin:5px;
+	margin-left:42%;
+	margin-right:42%;
+	font-family: 'Patrick Hand', cursive;
+	font-size:20px;
+}
+
+#image{
+	padding:5px;
+	margin-top:5px;
+	border-radius:200px;
+	border:2px solid black;
+	width:50%;
+}
+
+#img-caption{
+	margin-top:2px;
+	font-family: 'Source Serif Pro', serif;
+}
+
+#info{
+	text-align:left;
+	margin-left:15%;
+	margin-right:15%;
+	width:75%;
+	font-family: 'Source Serif Pro', serif;
+}
+
+#img-div{
+	text-align:center;
+	background-color:white;
+	border-radius:20px;
+}
+
+#tribute-info{
+	text-align:left;
+	margin-left:27%;
+	margin-right:27%;
+}
+
+#info li{
+	margin-bottom:2%;
+}
+
+#link{
+	padding-bottom:2%;
+}
+
+.navbar-footer{
+	text-align:center;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:1%;
+	border-radius:20px;
+}
